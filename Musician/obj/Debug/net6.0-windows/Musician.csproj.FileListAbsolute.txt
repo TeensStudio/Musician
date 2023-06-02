@@ -1,0 +1,15 @@
+D:\vostok\Musician\bin\Debug\net6.0-windows\Musician.exe
+D:\vostok\Musician\bin\Debug\net6.0-windows\Musician.deps.json
+D:\vostok\Musician\bin\Debug\net6.0-windows\Musician.runtimeconfig.json
+D:\vostok\Musician\bin\Debug\net6.0-windows\Musician.dll
+D:\vostok\Musician\bin\Debug\net6.0-windows\Musician.pdb
+D:\vostok\Musician\obj\Debug\net6.0-windows\Musician.csproj.AssemblyReference.cache
+D:\vostok\Musician\obj\Debug\net6.0-windows\Musician.GeneratedMSBuildEditorConfig.editorconfig
+D:\vostok\Musician\obj\Debug\net6.0-windows\Musician.AssemblyInfoInputs.cache
+D:\vostok\Musician\obj\Debug\net6.0-windows\Musician.AssemblyInfo.cs
+D:\vostok\Musician\obj\Debug\net6.0-windows\Musician.csproj.CoreCompileInputs.cache
+D:\vostok\Musician\obj\Debug\net6.0-windows\Musician.dll
+D:\vostok\Musician\obj\Debug\net6.0-windows\refint\Musician.dll
+D:\vostok\Musician\obj\Debug\net6.0-windows\Musician.pdb
+D:\vostok\Musician\obj\Debug\net6.0-windows\Musician.genruntimeconfig.cache
+D:\vostok\Musician\obj\Debug\net6.0-windows\ref\Musician.dll
